@@ -1,2 +1,2 @@
-# VitaApp
+# ViteApp
 Just for fun
